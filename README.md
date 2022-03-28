@@ -45,8 +45,8 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    <img src="https://us.123rf.com/450wm/innayatsuk/innayatsuk2102/innayatsuk210200051/165304530-orange-3d-html5-icon-isolated-on-white-background-.jpg?ver=6"
+      alt="html" width="40" height="40" /> </a> </a> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> 
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
       height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1&w=640"
       alt="javascript" width="40" height="40" /> <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> 
       </a> </p>
